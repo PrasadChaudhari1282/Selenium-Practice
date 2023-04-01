@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Registration for Compotation</title>
+ </head>
+ <body>
+ <center>
+ <h1>Registration For the Compition</h1>
+ <form action="response.html">
+
+ <lable for="ad"><u><b>enter the address</b></u></lable>
+ <textarea rows="2" cols="5" placeholder="enter the address"></textarea><br/><br/>
+ </form>
+ </center>
+ </body>
+</html>
