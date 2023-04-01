@@ -9,6 +9,8 @@
  <form action="response.html">
 
  <lable for="ad"><u><b>enter the address</b></u></lable>
+
+ <lable for="ad"><u><b>enter the Permanent address </b></u></lable>
  <textarea rows="2" cols="5" placeholder="enter the address"></textarea><br/><br/>
  </form>
  </center>
