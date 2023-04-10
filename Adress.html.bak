@@ -9,6 +9,8 @@
  <form action="response.html">
 <lable for="ad"><u><b>enter Your Full Name</b></u></lable>
 
+<lable for="ad"><u><b>enter the Education qulification</b></u></lable>
+
  <lable for="ad"><u><b>enter the address</b></u></lable>
 
  <lable for="ad"><u><b>enter the Permanent address </b></u></lable>
